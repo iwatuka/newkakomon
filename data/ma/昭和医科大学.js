@@ -1,0 +1,237 @@
+// 数学 / 昭和医科大学
+// このファイルに2020〜2026年の記録をまとめます。
+// 各年度の _date、_comment、score、maxScore、failed、needed を入力してください。
+// 大問の数・名前は、実際の過去問に合わせて増減・変更できます。
+
+registerYear("数学", "昭和医科大学", "2020年", {
+  "_comment": "大問1(4)と大問4(3)以外は全部初見で解けた。時間制限内では64%で時間外に解いたのも含めると91%解けた（chatgpt採点）。",
+  "_date": "2026-10-27",
+  "大問1": {
+    "score": "19",
+    "maxScore": "25",
+    "failed": "(4)のみ解けなかった、複素数平面の図形問題が慣れてなくて発想が出なかった",
+    "needed": "複素数の回転を使う図形問題に慣れる"
+  },
+  "大問2": {
+    "score": "8",
+    "maxScore": "25",
+    "failed": "ミス、時間制限外では全部解けた",
+    "needed": "確実にとく"
+  },
+  "大問3": {
+    "score": "20",
+    "maxScore": "25",
+    "failed": "ミス、時間外では解けた",
+    "needed": "確実に解く"
+  },
+  "大問4": {
+    "score": "17",
+    "maxScore": "25",
+    "failed": "最後の(3)の積分問題が解けなかった、描く図形が特殊で何をすればいいのかわからなかった",
+    "needed": "二つの曲線で囲まれた面積を出すときは、二つの関数の上下関係が分かれば簡単に積分できてその上下関係の調べ方を覚えとく"
+  }
+});
+
+registerYear("数学", "昭和医科大学", "2021年", {
+  _date: "",
+  _comment: "",
+
+  "大問1": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問2": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問3": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問4": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  }
+
+});
+
+registerYear("数学", "昭和医科大学", "2022年", {
+  _date: "",
+  _comment: "",
+
+  "大問1": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問2": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問3": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問4": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  }
+
+});
+
+registerYear("数学", "昭和医科大学", "2023年", {
+  _date: "",
+  _comment: "",
+
+  "大問1": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問2": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問3": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問4": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  }
+
+});
+
+registerYear("数学", "昭和医科大学", "2024年", {
+  _date: "",
+  _comment: "",
+
+  "大問1": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問2": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問3": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問4": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  }
+
+});
+
+registerYear("数学", "昭和医科大学", "2025年", {
+  _date: "",
+  _comment: "",
+
+  "大問1": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問2": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問3": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問4": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  }
+
+});
+
+registerYear("数学", "昭和医科大学", "2026年", {
+  _date: "",
+  _comment: "",
+
+  "大問1": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問2": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問3": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  },
+
+  "大問4": {
+    score: "",
+    maxScore: "",
+    failed: "",
+    needed: ""
+  }
+
+});
