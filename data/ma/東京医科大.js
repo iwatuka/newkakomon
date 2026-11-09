@@ -109,40 +109,39 @@ registerYear("数学", "東京医科大", "2022年", {
 });
 
 registerYear("数学", "東京医科大", "2023年", {
-  "_untimedScore": "",    // 時間制限なしの得点（未入力なら空欄）
-  "_untimedMaxScore": "", // 時間制限なしの満点
-  "_untimedPercent": "",  // 得点率だけ分かる場合に入力（例: "91"）
-  _date: "",
-  _comment: "",
+  "_untimedScore": "40",
+  "_untimedMaxScore": "100",
+  "_untimedPercent": "40",
+  _date: "2026-11-02",
+  _comment: "推定38/100点（38%）。全ての大問で小問は取れているが、それ以外はほぼできなかった。解き慣れていない問題が多く、しっかり復習すべき過去問。",
 
   "大問1": {
-    score: "",
-    maxScore: "",
+    score: "13",
+    maxScore: "25",
     failed: "",
-    needed: ""
+    needed: "誤答した小問の解法と計算過程を再確認する。"
   },
 
   "大問2": {
-    score: "",
-    maxScore: "",
-    failed: "",
-    needed: ""
+    score: "8",
+    maxScore: "25",
+    failed: "推定17点分の失点。",
+    needed: "解答できなかった設問の解法を復習する。"
   },
 
   "大問3": {
-    score: "",
-    maxScore: "",
-    failed: "",
+    score: "8",
+    maxScore: "25",
+    failed: "推定17点分の失点。",
     needed: ""
   },
 
   "大問4": {
-    score: "",
-    maxScore: "",
-    failed: "",
-    needed: ""
+    score: "9",
+    maxScore: "25",
+    failed: "推定16点分の失点。時間も足りなかった",
+    needed: "(2)の計算を確実に。(3)はできなかった"
   }
-
 });
 
 registerYear("数学", "東京医科大", "2024年", {
