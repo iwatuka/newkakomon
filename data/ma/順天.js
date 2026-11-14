@@ -59,78 +59,67 @@ registerYear("数学", "順天", "2021年", {
 
 });
 
+
+
 registerYear("数学", "順天", "2022年", {
-  "_untimedScore": "",    // 時間制限なしの得点（未入力なら空欄）
-  "_untimedMaxScore": "", // 時間制限なしの満点
-  "_untimedPercent": "",  // 得点率だけ分かる場合に入力（例: "91"）
-  _date: "",
-  _comment: "",
+  "_untimedScore": 75,
+  "_untimedMaxScore": 100,
+  "_untimedPercent": 75,
+  _date: "2026-11-13",
+  _comment: "【推定採点】時間内60/100点（60%）、時間外込み75/100点（75%）。大問1は最後の4項目と別の1項目を失点し、大問2は時間外にチまで自力で到達。大問3は(1)〜(3)正解、(4)は時間外も解けず。",
 
   "大問1": {
-    score: "",
-    maxScore: "",
-    failed: "",
-    needed: ""
+    score: 32,
+    maxScore: 40,
+    failed: "最後の4つができなかった",
+    needed: "多分類題はないからこの問題が次出ても解けるようにしておく"
   },
 
   "大問2": {
-    score: "",
-    maxScore: "",
-    failed: "",
-    needed: ""
+    score: 5,
+    maxScore: 30,
+    failed: "時間内は序盤まで。時間外にチまで自力で到達し、推定20/30点まで上昇。最後の(c)はゴリゴリ計算すればいけるけど絶対簡単な解き方があると信じて考えてたけど、結局はゴリゴリ計算する問題だった",
+    needed: "条件が特殊なときはノートを整理しながら解く。楽な方法を思いつけないときは考えるのを切り上げて計算する。"
   },
 
   "大問3": {
-    score: "",
-    maxScore: "",
-    failed: "",
-    needed: ""
-  },
-
-  "大問4": {
-    score: "",
-    maxScore: "",
-    failed: "",
-    needed: ""
+    score: 23,
+    maxScore: 30,
+    failed: "(4)が解けなかった",
+    needed: "四面体の内心をベクトルで表す。四面体と内心を扱う問題を解く"
   }
-
 });
 
+
+
 registerYear("数学", "順天", "2023年", {
-  "_untimedScore": "",    // 時間制限なしの得点（未入力なら空欄）
-  "_untimedMaxScore": "", // 時間制限なしの満点
-  "_untimedPercent": "",  // 得点率だけ分かる場合に入力（例: "91"）
-  _date: "",
+  _untimedScore: 71,
+  _untimedMaxScore: 100,
+  _untimedPercent: 71,
+
+  _date: "2026-11-13",
   _comment: "",
 
   "大問1": {
-    score: "",
-    maxScore: "",
-    failed: "",
+    score: 29,
+    maxScore: 40,
+    failed: "(2)の2直線が相似であるが理解できない、",
     needed: ""
   },
 
   "大問2": {
-    score: "",
-    maxScore: "",
-    failed: "",
+    score: 24,
+    maxScore: 30,
+    failed: "時間がなかった、時間外も含めると満点取れてる",
     needed: ""
   },
 
   "大問3": {
-    score: "",
-    maxScore: "",
-    failed: "",
-    needed: ""
-  },
-
-  "大問4": {
-    score: "",
-    maxScore: "",
-    failed: "",
-    needed: ""
+    score: 0,
+    maxScore: 30,
+    failed: "そもそも時間がなかった。(1)(2)は解けるが、(3)(4)は時間があっても難しい。(3)の証明はできてほしいし(4)は例外探すだけだからそこまで難しくないはずだった。",
+    needed: "この問題をまた解く以外思いつかない"
   }
-
 });
 
 registerYear("数学", "順天", "2024年", {
